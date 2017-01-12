@@ -1,6 +1,0 @@
-use_frameworks!
-target 'CFTestDemo_Tests' do
-  pod 'CFTestDemo',
-  
-  
-end

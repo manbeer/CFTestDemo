@@ -1,0 +1,16 @@
+PODS:
+  - CFTestDemo (0.1.0)
+
+DEPENDENCIES:
+  - CFTestDemo (from `../`)
+
+EXTERNAL SOURCES:
+  CFTestDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CFTestDemo: d05eaa4d9cbfe09307e44f9a2882baa70dbb88a0
+
+PODFILE CHECKSUM: 737aaaafc2998c795e4732c90c46922d658ca98f
+
+COCOAPODS: 1.0.1

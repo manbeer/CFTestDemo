@@ -1,0 +1,6 @@
+framework module CFTestDemo {
+  umbrella header "CFTestDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
